@@ -27,17 +27,43 @@
       nav ul li a:hover{
         background-color: rgba(78, 74, 74, 0.37);
       }
-     .bu1{
+     .but{
         background-color: rgb(99, 63, 2);
         border: 1px solid rgb(99, 63, 2);
         border-radius:20px 0px 20px 0px ;
         margin: 5px;
         }
-        .bu1 a{
+        .but a{
             text-decoration: none;
             color: white;
             padding: 10px;
         }
-        .bu1:hover{
+        .but:hover{
              background-color: rgba(78, 74, 74, 0.37);
+        }
+             .p1 .ch1,.ch2{
+            display: inline-block;
+            width: 49%;
+            box-sizing: border-box;
+             padding: 20px;
+              vertical-align: middle;
+            }
+        .im1{
+            border-radius: 50% 50% 0px 0px ;
+            width: 80%;
+             margin-right:0px; 
+             height: 350px;
+            }
+        .p1 .ch1{
+            padding:10px 10px 0px 250px;
+         }
+        .p1{
+            padding: 30px;
+        }
+         .bu1{
+        color: white;
+        padding: 10px 20px;
+        background-color: rgb(99, 63, 2);
+        border: 1px solid rgb(99, 63, 2);
+        border-radius:20px 0px 20px 0px ;
         }
