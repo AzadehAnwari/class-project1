@@ -78,21 +78,21 @@
       padding:40px 150px;
        }
 
-          .p3{
-    padding: 20px;
-     position: relative;
+    .p3{
+     padding: 20px;
+     
     }
    .ch13{ 
     display: inline-block;
     width: 40%; 
     margin: auto;
      padding: 20px 20px 20px 100px;
-      box-sizing: border-box;
-       background-color: rgb(238, 245, 202);
-        vertical-align: top;
-         margin-top: 70px;
-           position: relative;
-           left: 100px;
+    box-sizing: border-box;
+     background-color: rgb(238, 245, 202);
+     vertical-align: top;
+    margin-top: 70px;
+    position: relative;
+    left: 100px;
         }
    .ch23{
      display: inline-block;
@@ -104,4 +104,24 @@
    .im2{
     width: 100%;
      height: 350px;
+    }
+
+     .p4{
+    color: white;
+    background-color:  rgb(173, 138, 77);
+    padding: 50px;
+    height: 650px;
+    }
+ .ch14{
+    display: inline-block; 
+    width: 31%;
+     box-sizing: border-box;
+      margin: 10px;
+       height: 300px;
+    }
+    .im3{
+        width: 100%;
+    }
+    #ch14{
+        vertical-align:bottom;
     }
