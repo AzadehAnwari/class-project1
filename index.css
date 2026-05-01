@@ -39,8 +39,8 @@
             color: white;
             padding: 10px;
         }
-        .but:hover{
-             background-color: rgba(78, 74, 74, 0.37);
+        button:hover{
+             background-color:rgb(97, 74, 36);
         }
              .p1 .ch1,.ch2{
             display: inline-block;
@@ -125,3 +125,16 @@
     #ch14{
         vertical-align:bottom;
     }
+   .p5{
+        padding: 50px;
+    }
+    .ch15,.ch25{
+        display: inline-block;
+        width: 20%;
+        margin: 80px;
+        box-sizing: border-box;
+    }
+    .im4{
+        width: 100%;
+        border-radius: 50% 50% 0px 0px;
+    } 
