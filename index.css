@@ -1,0 +1,43 @@
+ nav{
+    display: flex;
+    justify-content: space-between;
+     background-color: rgb(173, 138, 77);
+   
+    }
+    nav ul{
+        overflow: hidden;
+        padding: 0px;
+        margin: 0;
+        display: flex;
+    }
+    nav ul li{
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+    nav h1{
+        margin:10px 0 0 20px ;
+    }
+    nav ul li a{
+        padding:20px;
+        text-decoration: none;
+        color: black;
+        display: block;
+    }
+      nav ul li a:hover{
+        background-color: rgba(78, 74, 74, 0.37);
+      }
+     .bu1{
+        background-color: rgb(99, 63, 2);
+        border: 1px solid rgb(99, 63, 2);
+        border-radius:20px 0px 20px 0px ;
+        margin: 5px;
+        }
+        .bu1 a{
+            text-decoration: none;
+            color: white;
+            padding: 10px;
+        }
+        .bu1:hover{
+             background-color: rgba(78, 74, 74, 0.37);
+        }
