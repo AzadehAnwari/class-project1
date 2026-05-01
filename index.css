@@ -75,7 +75,7 @@
          padding: 20px;
         }
      .sp2{
-      padding:40px 150px;
+      padding:40px 130px;
        }
 
     .p3{
@@ -195,5 +195,5 @@ footer{
    background-color: rgb(173, 138, 77); 
     margin:0px;
      padding: 40px;
-      color: white;
+      color: rgba(255, 255, 255, 0.459);
     }
