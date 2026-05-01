@@ -151,3 +151,19 @@
      padding: 20px;
      box-sizing: border-box;
     }
+
+.p7{
+    text-align: center;
+     padding: 50px;
+    }
+
+.ch17{
+    width: 40%;
+     margin: auto; 
+     text-align: left;
+      position: relative;
+       box-sizing: border-box;
+    }
+.li{
+    padding:20px 50px;
+}
